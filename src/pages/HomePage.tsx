@@ -40,7 +40,7 @@ const HomePage: React.FC = () => {
       <section className="relative min-h-screen flex items-center overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="src/assets/image.png"
+            src="https://images.pexels.com/photos/1721296/pexels-photo-1721296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="Luxury car"
             className="absolute inset-0 w-full h-full object-cover"
           />
